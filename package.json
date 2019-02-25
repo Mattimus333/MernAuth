@@ -22,7 +22,9 @@
     "validator": "^10.11.0"
   },
   "devDependencies": {
+    "jest": "^24.1.0",
     "nodemon": "^1.18.10",
-    "prettier": "1.16.4"
+    "prettier": "1.16.4",
+    "supertest": "^3.4.2"
   }
 }
